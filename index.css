@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: rgb(1, 1, 20);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(200, 196, 196);
+    font-size: 1.1em;
+}
+.formContainer{
+    padding: 20px;
+    margin: 20px;
+    max-width: 1000px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+input{
+    background-color: rgb(1, 1, 20);
+    border:none;
+}
+#mybtn{
+    background-color: white;
+    color: rgb(1, 1, 20);
+    padding:10px;
+    font-size: 1em;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    
+}
